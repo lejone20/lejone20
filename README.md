@@ -2,7 +2,12 @@
 *Graphic Information Technology*
 
 Lillian Jones is a student at Arizona State University studying Graphic Information Technology and web design. She completed an Associates of Arts at Columbus State Community College in December 2004 and continued her education at Wright State University completing a BS in Psychology and completing a concentration in Behavioral Neuroscience in June 2008.  She began studying early programming using dos in 1991 while in High School.  In 1996, she completed an office specialist certificate program educating students on the benefits of incorporating computing ibto the office.  She has a vast knowledge of software programs beginning WordPerfect, MS Office, Adobe Creative Suite, Google Apps, Quickbooks to name a few.  
-She has experience programming in JavaScript, Html and dos. While attending awrifht State University she was an undergraduate teachers assistant and grader.  She has been working as a fiber artist designing childrens clothing for 14 years with 40 years experience honing her craft. 
+She has experience programming in JavaScript, Html and dos. While attending Wright State University she was an undergraduate teachers assistant and grader.  
+
+She has been working as a fiber artist designing childrens clothing for 14 years with 40 years experience honing her craft. 
+
+:computer: [My Website] (graphicdesignbylillian.com)
+
 <!--
 **lejone20/lejone20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
