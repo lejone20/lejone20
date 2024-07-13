@@ -7,9 +7,11 @@ She has experience programming in JavaScript, Html and dos. While attending Wrig
 She has been working as a fiber artist designing childrens clothing for 14 years with 40 years experience honing her craft. 
 
 :computer: [My Website](https://www.graphicdesignsbylillian.com/)
-![alt text](cp_1jones 3.jpg)
+![CP1_Jones 3](https://github.com/user-attachments/assets/69ef5a49-f4a8-4649-9786-7b002f139ea9)
+
 <!--
-**lejone20/lejone20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lejone20/lejone20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Git
+Hub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
